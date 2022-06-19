@@ -15,13 +15,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking insurance scams, and more.
 
 
-## Header 2
+## Project 2 
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Project 3
 
 ```js
 // Javascript code with syntax highlighting.
